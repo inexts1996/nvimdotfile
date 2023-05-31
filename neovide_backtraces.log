@@ -1,0 +1,41 @@
+2023-05-30 02:17:49 - Neovide panicked with the message 'Library libxkbcommon-x11.so could not be loaded.'. (File: /usr/src/debug/neovide-git/neovide-git/CARGO/git/checkouts/xkbcommon-dl-f5ddeba7a59cc2f1/9008328/src/x11.rs; Line: 70, Column: 39)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: __libc_start_main
+  18: <unknown>
+
+2023-05-30 02:18:04 - Neovide panicked with the message 'Library libxkbcommon-x11.so could not be loaded.'. (File: /build/.cargo/git/checkouts/xkbcommon-dl-f5ddeba7a59cc2f1/9008328/src/x11.rs; Line: 70, Column: 39)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: __libc_start_main
+  17: <unknown>
+
