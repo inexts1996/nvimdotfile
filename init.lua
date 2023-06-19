@@ -55,6 +55,10 @@ return {
     },
   },
 
+  plugins = {
+    { "mfussenegger/nvim-dap", enabled = true },
+  },
+
   -- Configure require("lazy").setup() options
   lazy = {
     defaults = { lazy = true },
