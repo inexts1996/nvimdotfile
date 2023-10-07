@@ -22,16 +22,6 @@ return {
     ["<leader>b"] = { name = "Buffers" },
     -- quick save
     ["<C-s>"] = { ":w!<cr>", desc = "Save File" }, -- change description but the same command
-    ["<leader>fs"] = {
-      function()
-        if vim.g.neovide then
-          local fullscreen = vim.g.neovide_fullscreen
-          vim.g.neovide_fullscreen = not fullscreen
-        end
-      end,
-
-      desc = "neovide fullscreen",
-    },
   },
   t = {
     -- setting a mapping to false will disable it
