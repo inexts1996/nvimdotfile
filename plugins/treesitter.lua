@@ -1,7 +1,7 @@
 return {
   "nvim-treesitter/nvim-treesitter",
   opts = {
-    ensure_installed = { "lua", "c_sharp", "org" },
+    ensure_installed = { "lua", "c_sharp", "org", "norg" },
   },
 highlight = {
         enable = true,
